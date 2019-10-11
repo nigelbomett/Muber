@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521886536063",
+    "firebase_url": "https://muberapp-ec21f.firebaseio.com",
+    "project_id": "muberapp-ec21f",
+    "storage_bucket": "muberapp-ec21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521886536063:android:d2b8d99d831f58a3f48a4a",
+        "android_client_info": {
+          "package_name": "com.nigelbomett.muber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521886536063-sojc8pr23lbtheugub17b2pmh768vlmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nigelbomett.muber",
+            "certificate_hash": "ed1793ec57968034dda9fb64c9840aca2cd1522a"
+          }
+        },
+        {
+          "client_id": "521886536063-0jsluhhbu20lbttsvbji3ej3otaacgdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBernWKnRMgUbtOT2fWNSXt1XvPFiIB6u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521886536063-0jsluhhbu20lbttsvbji3ej3otaacgdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
